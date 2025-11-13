@@ -1,0 +1,19 @@
+# ⚙️ CONFIGURAÇÕES DO BOT TELEGRAM ODDS
+
+# Token do seu bot no Telegram (obtenha com o BotFather)
+TELEGRAM_BOT_TOKEN=8453262627:AAE4z9a_k9cneQWe5bMFgepHV8ir0mW7Ypw
+
+# ID do chat para onde o bot enviará mensagens (use o comando /start e veja no log)
+TELEGRAM_CHAT_ID=468129221
+
+# Chave da The Odds API (crie em https://the-odds-api.com/)
+THE_ODDS_API_KEY=b3995b8f3e5384c64b8093287b7e4fe4
+
+# Intervalo de verificação em segundos (30 recomendado)
+POLL_INTERVAL=30
+
+# Esporte a monitorar (ex: soccer_epl, soccer_brazil_seria_a, basketball_nba, etc)
+SPORT_KEY=soccer_epl
+
+# Percentual mínimo de diferença entre odds para alertar (em %)
+DIFFERENCE_THRESHOLD_PCT=5.0
