@@ -2,7 +2,6 @@
 
 # Token do seu bot no Telegram (obtenha com o BotFather)
 TELEGRAM_BOT_TOKEN=8453262627:AAE4z9a_k9cneQWe5bMFgepHV8ir0mW7Ypw
-
 # ID do chat para onde o bot enviará mensagens (use o comando /start e veja no log)
 TELEGRAM_CHAT_ID=468129221
 
